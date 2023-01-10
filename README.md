@@ -1,4 +1,4 @@
-# Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK
+Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK
  
 ## AIM:
 To design a and simulate the painting environment for a serial manipluator and teach the surface for the same 
